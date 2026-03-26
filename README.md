@@ -55,5 +55,5 @@ Nodal Analysis, Impedance & Power Calculations, Bode Plots, Two-Port Networks, T
 
 ### Contact
 
-* **Email:** caner.bahadr24@icloud.com
+* **Email:** caner.bahadir24@icloud.com
 * **LinkedIn:** [https://www.linkedin.com/in/caner-bahad%C4%B1r-765305297/]
