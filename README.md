@@ -1,4 +1,4 @@
-# ABDULLAH CANER BAHADIR
+# Abdullah Caner Bahadır
 
 Pamukkale Üniversitesi Elektrik-Elektronik Mühendisliği 3. sınıf öğrencisiyim. Teorik olarak öğrendiğim karmaşık devre yapılarını laboratuvarda ve atölyede test edip, çabalarımın somut sonuçlarını cihazlar üzerinde görmek en büyük motivasyonum. Gerek grup çalışmalarında gerekse teknik projelerde aktif, dinleyici ve yapıcı bir rol üstlenerek problemlere pratik çözümler üretmeyi severim. 
 
