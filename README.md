@@ -1,29 +1,59 @@
 # Abdullah Caner Bahadır
 
-Pamukkale Üniversitesi Elektrik-Elektronik Mühendisliği 3. sınıf öğrencisiyim. Teorik olarak öğrendiğim karmaşık devre yapılarını laboratuvarda ve atölyede test edip, çabalarımın somut sonuçlarını cihazlar üzerinde görmek en büyük motivasyonum. Gerek grup çalışmalarında gerekse teknik projelerde aktif, dinleyici ve yapıcı bir rol üstlenerek problemlere pratik çözümler üretmeyi severim. 
+**Electrical-Electronics Engineering Student | Embedded Systems & Circuit Analysis**
 
-Şu an ağırlıklı olarak **Devre Analizi, AC Devreler ve Ölçüm Teknikleri** üzerine sağlam bir temel inşa ediyor; gömülü sistemler ve güç elektroniği alanlarında uzmanlaşmayı hedefliyorum.
+I am an Electrical-Electronics Engineering student focused on circuit analysis, measurement techniques, and hardware-oriented problem solving. My primary motivation is seeing the tangible results of my efforts by translating complex theoretical models into functional, real-world applications in the laboratory and workshop. In team environments, I take a constructive and mediating approach to engineering challenges.
 
-###  Teknik Yetkinlikler
+### Technical Focus
 
-**Yazılım & Programlama:**
-* `C` | `C++` | `MATLAB (Temel)`
+* AC/DC Circuit Analysis & Simulation
+* Embedded Systems & Microcontrollers
+* Power Electronics & Transformer Principles
+* Measurement & Signal Analysis
+* Hardware Troubleshooting & Repair
 
-**Simülasyon & Tasarım:**
-* `PSpice` | `AutoCAD (Temel)`
+### Tech Stack
 
-**Donanım, Ölçüm & Prototipleme:**
-* `Arduino` | `Breadboard Devre Tasarımı`
-* `Osiloskop` | `Sinyal Jeneratörü` | `Multimetre`
+**Languages**
+C, C++, MATLAB
 
-### 🚀 Neler Yapıyorum?
-* **AC/DC Devre Analizi:** Sinüzoidal işaretler, sürekli hal analizleri, empedans ve güç hesaplamaları yapıyor; frekans cevabı ve Bode diyagramları üzerinden sistem davranışlarını inceliyorum.
-* **Elektronik Modelleme:** İki kapılı devre analizleri gerçekleştiriyor ve teorik parametreleri PSpice simülasyonlarıyla doğruluyorum.
-* **Saha ve Atölye Pratiği:** Sadece teoride kalmıyor; elektronik cihaz tamiri, arıza tespiti ve elektrik tesisat uygulamalarında aktif olarak çalışıyorum. Transformatör prensipleri ve trifaze devreler üzerine uygulamalı incelemeler yapıyorum.
+**Simulation & CAD**
+PSpice, AutoCAD
 
-### 📈 Hedefim
-Teorik bilgimi saha deneyimiyle harmanlayarak, özellikle **Gömülü Sistemler** ve **Güç Elektroniği** alanlarında kendimi geliştirebileceğim ve değer katabileceğim staj / çalışma fırsatları arıyorum. Teknofest gibi inovasyon odaklı platformları yakından takip ediyorum.
+**Hardware & Instrumentation**
+Arduino, Breadboard Prototyping
+Oscilloscope, Signal Generator, Multimeter
 
-### 📫 Bana Ulaşın
-* **E-posta:** caner.bahadr24@icloud.com
-* **LinkedIn:** [(https://www.linkedin.com/in/caner-bahad%C4%B1r-765305297/)]
+**Core Concepts**
+Nodal Analysis, Impedance & Power Calculations, Bode Plots, Two-Port Networks, Three-Phase Circuits
+
+### Selected Laboratory & Field Work
+
+**AC/DC Circuit Simulation & Analysis**
+* Applied nodal voltage methods and continuous state analysis for complex resistor networks.
+* Calculated impedance, phase differences, and power in AC circuits.
+* Verified theoretical circuit parameters using PSpice DC/AC simulations.
+* Stack: PSpice, Theoretical Calculus
+
+**Signal & Frequency Response Testing**
+* Conducted wave analysis using oscilloscopes and signal generators.
+* Measured frequency, period, and amplitude to analyze system behaviors via Bode plots.
+* Stack: Oscilloscope, Signal Generator, Hardware Setup
+
+**Electrical Workshop & Troubleshooting**
+* Participated in practical electronic device repair and fault detection.
+* Assisted in residential electrical wiring and practical system planning.
+* Gained hands-on experience with transformer principles and three-phase circuits.
+* Stack: Multimeter, AutoCAD, Hand Tools
+
+### Engineering Interests
+
+* Embedded system architectures and microcontroller applications
+* Power electronics and energy distribution
+* Hardware debugging and rapid prototyping
+* Participating in innovation ecosystems and tech competitions (Teknofest)
+
+### Contact
+
+* **Email:** caner.bahadr24@icloud.com
+* **LinkedIn:** [https://www.linkedin.com/in/caner-bahad%C4%B1r-765305297/]
