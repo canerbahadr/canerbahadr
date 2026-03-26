@@ -26,4 +26,4 @@ Teorik bilgimi saha deneyimiyle harmanlayarak, özellikle **Gömülü Sistemler*
 
 ### 📫 Bana Ulaşın
 * **E-posta:** caner.bahadr24@icloud.com
-* **LinkedIn:** [LinkedIn Profil Linkin Buraya]
+* **LinkedIn:** [(https://www.linkedin.com/in/caner-bahad%C4%B1r-765305297/)]
